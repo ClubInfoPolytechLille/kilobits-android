@@ -4,9 +4,8 @@
     <string name="action_sign_in_short">Se connecter</string>
     <string name="error_field_required">Ce champ est requis</string>
     <string name="error_incorrect_password">Mot de passe incorrect</string>
-    <string name="error_invalid_email">Cette adresse mail est invalide</string>
     <string name="error_invalid_password">Mot de passe trop court</string>
-    <string name="permission_rationale">\"L\'accès aux contacts est nécessaire pour donner la completion automatique des mail.\"</string>
-    <string name="prompt_email">Mail</string>
     <string name="prompt_password">Mot de passe (optionnel)</string>
+    <string name="prompt_username">Nom d\'utilisateur</string>
+    <string name="error_invalid_username">Nom d\'utilisateur trop court</string>
 </resources>
