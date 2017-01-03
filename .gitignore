@@ -7,3 +7,6 @@
 /build
 /captures
 .externalNativeBuild
+.idea/codeStyleSettings.xml
+.idea/inspectionProfiles/
+.idea/vcs.xml
