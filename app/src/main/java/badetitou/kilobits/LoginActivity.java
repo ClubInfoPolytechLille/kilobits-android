@@ -199,6 +199,8 @@ public class LoginActivity extends AppCompatActivity {
                 mPasswordView.requestFocus();
             }
         });
+
+        queue.add(jsonRequest);
     }
 }
 
